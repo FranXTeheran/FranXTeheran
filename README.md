@@ -1,5 +1,5 @@
-## Hi there 👋
-<img width="1536" height="1024" alt="ChatGPT Image 9 dic 2025, 20_41_57" src="https://github.com/user-attachments/assets/e016ff6c-82c9-4f58-ae1e-1f08ef879c47" />
+## Bienvenido a mi git hub 👋
+![ChatGPT Image 9 dic 2025, 20_41_57](https://github.com/user-attachments/assets/d9f49fa0-fece-4e95-a797-5019510fe89b)
 
 
 ## About Me
