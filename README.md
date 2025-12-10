@@ -3,6 +3,6 @@
 
 
 ## About Me
-Soy una persona dedicada al arte!
+Soy un Front-End Developer Junior con un enfoque fuerte en diseño UI/UX. Me gusta construir interfaces modernas, minimalistas y bien estructuradas, pensando no solo en cómo se ven, sino en cómo se sienten.
+Trabajo con HTML, CSS, JavaScript y React, siempre buscando mejorar la experiencia visual e interactiva de cada proyecto.
 
-![descarga (1)](https://github.com/user-attachments/assets/ff09394e-a2cd-49fb-99f0-3eadb1b41cb0)
