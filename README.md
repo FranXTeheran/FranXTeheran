@@ -7,8 +7,6 @@
 <h1 align="center">Hola, Soy Frank Teheran</h1>
 
 
-<br clear="both">
-
 <h2 align="center">Acerca de mi</h2>
 
 ###
