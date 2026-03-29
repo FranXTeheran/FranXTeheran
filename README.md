@@ -13,9 +13,13 @@
 
 <p align="left">- 🚀 Desarrollador Full Stack apasionado por construir productos digitales reales<br>- ⚛️ Trabajo con React y JavaScript para interfaces modernas y dinámicas<br>- 🎨 Diseño interfaces UX/UI centradas en la experiencia del usuario<br>- 🗄️ Manejo bases de datos relacionales con MySQL y modelado de datos<br>- 🔧 Desarrollo backend con PHP, APIs REST y lógica de negocio<br>- 🌱 Siempre aprendiendo nuevas tecnologías y mejores prácticas<br>- 💡 Me gusta resolver problemas con código limpio y funcional<br>- 📍 Colombia 🇨🇴</p>
 
+##  Estadisticas
+<div align="center">
 
-## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranXTeheran&theme=tokyonight&hide_border=true&locale=es&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
+
 
 ###
 
