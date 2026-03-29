@@ -6,7 +6,6 @@
 
 <h1 align="center">Hola, Soy Frank Teheran</h1>
 
-###
 
 <br clear="both">
 
