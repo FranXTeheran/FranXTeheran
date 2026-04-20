@@ -1,4 +1,4 @@
-![banner](https://github.com/FranXTeheran/FranXTeheran/raw/main/banner-dev.gif)
+![banner](https://github.com/FranXTeheran/FranXTeheran/raw/main/baner.gif)
 
 <div align="center">
 
