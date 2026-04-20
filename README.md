@@ -38,9 +38,9 @@
 
 **Sígueme en:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=9D8EC7)](https://linkedin.com/in/TU-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-%230d0d0d.svg?style=for-the-badge&logo=instagram&logoColor=9D8EC7)](https://instagram.com/TU-INSTAGRAM)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230d0d0d.svg?style=for-the-badge&logo=firefox&logoColor=9D8EC7)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=9D8EC7)](https://linkedin.com/in/frank-teheran-a765aa399)
+[![Instagram](https://img.shields.io/badge/Instagram-%230d0d0d.svg?style=for-the-badge&logo=instagram&logoColor=9D8EC7)](https://instagram.com/itsfranx.x)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230d0d0d.svg?style=for-the-badge&logo=firefox&logoColor=9D8EC7)](#)
 
 </td>
 <td valign="top" width="40%" align="center">
