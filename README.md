@@ -1,4 +1,4 @@
-![banner](https://github.com/FranXTeheran/FranXTeheran/raw/main/bane2.gif)
+<img src="https://github.com/FranXTeheran/FranXTeheran/raw/main/bane2.gif" width="100%" />
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280px" />
+<img src="https://github.com/FranXTeheran/FranXTeheran/raw/main/aboutme2.gif" width="320px" />
 
 <br/>
 
